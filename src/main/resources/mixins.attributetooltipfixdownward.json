@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cxim.attributetooltipfix116x.mixin",
+  "refmap": "mixins.attributetooltipfixdownward.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "AttributeModifierMixin",
+    "ItemStackMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
